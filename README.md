@@ -1,5 +1,7 @@
 # remarkable
 
+This is a fork of https://github.com/DarrenMack-OD/remarkable, which is a fork of https://github.com/jonschlinkert/remarkable, which is the original repo. DarrenMack-OD's fork resolves various security vulnerabilities with the original repo.
+
 [![Build Status](https://travis-ci.org/jonschlinkert/remarkable.svg?branch=master)](https://travis-ci.org/jonschlinkert/remarkable)
 [![NPM version](https://img.shields.io/npm/v/remarkable.svg)](https://www.npmjs.org/package/remarkable)
 [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/remarkable/badge?style=rounded)](https://www.jsdelivr.com/package/npm/remarkable)
